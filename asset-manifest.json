@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PaolaVaninaGarcia/curso-react-intro/static/css/main.32a180ee.css",
+    "main.js": "/PaolaVaninaGarcia/curso-react-intro/static/js/main.44398b38.js",
+    "index.html": "/PaolaVaninaGarcia/curso-react-intro/index.html",
+    "static/media/delete.svg": "/PaolaVaninaGarcia/curso-react-intro/static/media/delete.eab2ec9697f957abfc37a2747016322c.svg",
+    "static/media/check.svg": "/PaolaVaninaGarcia/curso-react-intro/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.32a180ee.css.map": "/PaolaVaninaGarcia/curso-react-intro/static/css/main.32a180ee.css.map",
+    "main.44398b38.js.map": "/PaolaVaninaGarcia/curso-react-intro/static/js/main.44398b38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a180ee.css",
+    "static/js/main.44398b38.js"
+  ]
+}
